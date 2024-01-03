@@ -1,1 +1,1 @@
-# depends-sources
+Staging area for dependencies if main sites fail
